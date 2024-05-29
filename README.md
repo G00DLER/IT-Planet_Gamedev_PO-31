@@ -1,3 +1,4 @@
+[![image.png](https://i.postimg.cc/YSVcnXJ8/image.png)](https://postimg.cc/Ffjn1xFJ)
 # IT_Planet
 
 ### RPG-игра в стиле Souls-like.
